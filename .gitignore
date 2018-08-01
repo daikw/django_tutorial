@@ -1,4 +1,5 @@
 **/*.pyc
 .idea/
 venv/
+mysite/db.sqlite3
 
